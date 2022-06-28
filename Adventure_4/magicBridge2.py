@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 # Adventure 4: vanishing bridge
 
 import mcpi.minecraft as minecraft
@@ -6,8 +8,10 @@ import time
 
 mc = minecraft.Minecraft.create()
 
-playerId = mc.getPlayerEntityId("Jr_17")
+# playerId = mc.getPlayerEntityId("Jr_17")
+playerId = mc.getPlayerEntityId("TonyStarkJ6")
 
+# explain lists
 bridge = []
 
 def buildBridge():

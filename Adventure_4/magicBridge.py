@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 import mcpi.minecraft as minecraft
 import mcpi.block as block
 import time

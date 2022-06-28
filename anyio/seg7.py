@@ -99,6 +99,13 @@ patterns = {
   "up":    [A, B, F],
   "down":  [C, D, E],
   "error": [A, D, G],
+  "J":     [B, C, D],
+  "o":     [C, D, E, G],
+  "r":     [E, G],
+  "d":     [B, C, D, E, G],
+  "I":     [E, F],
+  "b":     [C, D, E, F, G, DP],
+  "E":     [A, D, E, F, G, DP],
   " "    : []
 }
 

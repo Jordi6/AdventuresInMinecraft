@@ -7,7 +7,7 @@ mc = minecraft.Minecraft.create()
 def getIds():
     entityIds = mc.getPlayerEntityIds()
     for player in entityIds:
-        print player
+        print(player)
 
 getIds()
 
@@ -16,7 +16,7 @@ getIds()
 # entityId = mc.getPlayerEntityId("TonyStarkJ6")
 def withName():
 	entityId = mc.getPlayerEntityId("TonyStarkJ6")
-	print entityId
+	print(entityId)
 
 withName()
 

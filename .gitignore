@@ -1,2 +1,8 @@
 
 .DS_Store
+bitio.hex
+protscan.cache
+*.cache
+scantemp
+tips.txt
+
